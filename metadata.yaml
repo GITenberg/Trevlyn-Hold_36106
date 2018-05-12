@@ -1,0 +1,32 @@
+_repo: Trevlyn-Hold_36106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Wood, Ellen Price
+    - Wood, Mrs. Henry
+    - Price, Ellen
+    - Ludlow, Johnny
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2011-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction'
+- !lcc 'PR'
+title: 'Trevlyn Hold: A Novel'
+url: http://www.gutenberg.org/ebooks/36106
